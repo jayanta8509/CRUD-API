@@ -12,11 +12,11 @@ CREATE,READ,UPDATE, DELETE functionality provided by this API..
 ![image](https://github.com/jayanta8509/CRUD-API/assets/93045961/3988e8fc-115e-4d12-b58a-2ac48d171b00)
 
 
-•Post method to upload data in database.
+•Post method to upload data in database..
 ![image](https://github.com/jayanta8509/CRUD-API/assets/93045961/b2cff0f9-b887-438f-98f2-5679b547e63f)
 
 
-• Delete method to delete data from database.
+• Delete method to delete data from database..
 ![image](https://github.com/jayanta8509/CRUD-API/assets/93045961/0a002966-d237-4458-8c81-5b2eec584ef8)
 
 
